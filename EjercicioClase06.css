@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(250, 188, 18)
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color:rgb(43, 34, 75);
+    font-size: 60px; vertical-align: middle;
+    background-image:url(imagenes/Fondo1.png); width: 800px; height: 450px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: rgb(52, 36, 83);
+
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 20px;
+
+    padding: 10px 10px 10px 500px;
+}
+p{
+  font-family: Tahoma, Verdana, sans-serif;
+  background-color:rgb(230, 191, 86);
+  font-size: 30px;
+  letter-spacing: 5px;
+  border-style: double;
+  border-width: 10px;
+  border-color: rgb(52, 36, 83);
+  border-radius: 15px;
+
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+
+  padding: 10px 20px 10px 20px;
+}
+
+p.uno {
+    font-size: 30px;
+    line-height: 50px;
+    background-color: rgb(52, 36, 83);
+    border-style: ridge;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    color:rgb(255, 255, 255);
+
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+    text-decoration: underline overline;
+    text-transform: uppercase; 
+
+    padding: 10px 20px 10px 250px;
+}
